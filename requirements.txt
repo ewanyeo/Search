@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-random
 matplotlib.pyplot
 pybase64
 pillow
